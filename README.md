@@ -1,5 +1,4 @@
 <h1  align="center">Bonjour 👋, Je m'appelle AIT CHIKHOUNE Amer</h1>
-<h4 align="center">⚠️ Recherche actuellement une alternance développeur Full Stack Secteur Metz/Luxembourg</h4>
 <br>
 <ul>
 <li><b>🎂 18 Ans</b></li>
