@@ -61,7 +61,7 @@
 <ul>
 <a  href="https://dev.to/bylkamar"  target="blank"><img  src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"  alt="bootstrap" /> </a> 
 <a  href="https://www.hackerrank.com/aitchikhouneamer"  target="blank"><img  src="https://img.shields.io/badge/hackerrank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"  alt="bootstrap" /></a>
-<a  href="https://linkedin.com/in/amarac"  target="blank"><img  src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"  alt="bootstrap" /></a>
+<a  href="https://linkedin.com/in/amerac"  target="blank"><img  src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"  alt="bootstrap" /></a>
 <a  href="mailto:aitchikhouneamer@gmail.com"  target="blank"><img  src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"  alt="bootstrap" /></a>
 </ul>
 
