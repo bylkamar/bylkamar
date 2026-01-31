@@ -1,78 +1,41 @@
-<h1  align="center">Bonjour 👋, Je m'appelle AIT CHIKHOUNE Amer</h1>
-<br>
-<ul>
-<li><b>🎂 19 Ans</b></li>
-<li>Localité: <b>Metz 🇫🇷</b>  </li>
-</ul>
-<hr>
-<h2>📁 Mes projets</h2>
 
-- 👨‍💻  [Mes projets](https://github.com/bylkamar?tab=repositories)
-<hr>
-<h2>👉 Ce que j'utilise au quotidien</h2>
-<table>
-<tr>
-<th>Catégorie</th>
-<th>Contenue</th>
-</tr>
-<tr>
-<td><b>💻 Tech.</b></td>
-<td>
-<img  src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"  alt="bootstrap" /> 
-<img  src="https://img.shields.io/badge/NodeJs-339933?style=for-the-badge&logo=Node.js&logoColor=white"  alt="bootstrap" /> 
-<img  src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"  alt="bootstrap" /> 
-<img  src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"  alt="bootstrap" />  
-<img  src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"  alt="bootstrap" /> 
-<img  src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"  alt="bootstrap" /> 
-<img  src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"  alt="bootstrap" /> 
-<img  src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"  alt="bootstrap" /> 
-</td>
-<tr>
-<td><b>🛠 Outils</b></td>
-<td>
-<img  src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"  alt="bootstrap" /> 
-<img  src="https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white"  alt="bootstrap" /> <img  src="https://img.shields.io/badge/XAMPP/WAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"  alt="bootstrap" /> 
-<img  src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"  alt="bootstrap" />  
-<img  src="https://img.shields.io/badge/phpmyadmin-4479A1?style=for-the-badge&logo=phpmyadmin&logoColor=white"  alt="bootstrap" />
-<img  src="https://img.shields.io/badge/proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"  alt="bootstrap" />
-<img  src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"  alt="bootstrap" />
-</td>
-</tr>
-<tr>
-<td><b>💻 Dev. Env.</b></td>
-<td>
-<img  src="https://img.shields.io/badge/windows11-0078D6?style=for-the-badge&logo=windows11&logoColor=white"  alt="bootstrap" /> 
-<img  src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"  alt="bootstrap" /> 
-<img  src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"  alt="bootstrap" /> 
-<img  src="https://img.shields.io/badge/centos-262577?style=for-the-badge&logo=centos&logoColor=white"  alt="bootstrap" /> 
-<img  src="https://img.shields.io/badge/debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"  alt="bootstrap" /> 
-</td>
-</tr>
-</tr>
+# ⚡ bylkacode | AIT CHIKHOUNE Amer
+
+<p align="center"> <strong>CS Student & Versatile Developer</strong><br> 🌍 <em>Open to international opportunities (Internship 2026)</em> </p>
+
+---
 
 
-</table>
 
+### 🍱 Portfolio Bento
+| 🚀 Objectif Stage | 🛠️ Tech Stack | 📊 Activité |
+| :--- | :--- | :--- |
+| **Dès le 23 fév. 2026**<br>Mobilité Internationale<br>4 mois d'immersion | **Mobile:** Expo, React Native<br>**Backend:** Java, Python, Node<br>**Focus:** Automatisation | <img src="https://gh-stats.work/api?username=bylkamar" width="280" /> |
 
-<hr>
-<h2  align="left">📞 Contacts:</h2>
+---
 
-<p  align="left">
-<ul>
-<a  href="https://dev.to/bylkamar"  target="blank"><img  src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"  alt="bootstrap" /> </a> 
-<a  href="https://www.hackerrank.com/aitchikhouneamer"  target="blank"><img  src="https://img.shields.io/badge/hackerrank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"  alt="bootstrap" /></a>
-<a  href="https://linkedin.com/in/amerac"  target="blank"><img  src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"  alt="bootstrap" /></a>
-<a  href="mailto:aitchikhouneamer@gmail.com"  target="blank"><img  src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"  alt="bootstrap" /></a>
-</ul>
-
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://gh-stats.work/api/top-langs/?username=bylkamar&layout=compact&theme=dark&hide_border=true&bg_color=00000000" alt="Most Used Languages" />
 </p>
-<hr>
-  
 
-<h2  align="left">👀 Autres: </h2>
+---
 
-<p><a  href="https://www.buymeacoffee.com/bylkamar">  <img  align="left"  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"  height="50"  width="210"  alt="bylkamar"  /></a></p><br><br>
-<hr>
-<h2>📊 Statistiques</h2>
+### 🚀 Roadmap 2026
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bylkamar&show_icons=true&theme=aura_dark#gh-dark-mode-only)](https://github.com/bylkamar)
+- 📱 **Pokestim (Expo Project)** : Développement d'une app mobile permettant de scanner ses cartes/items Pokémon via caméra pour visualiser en temps réel les prix du marché. Focus sur l'optimisation de l'IA de reconnaissance et l'expérience utilisateur (quêtes,challenge...).
+- ☕ **Java Mastery** : Apprentissage pour atteindre un niveau technique me permettant de maintenir, refactoriser et faire évoluer n'importe quel projet d'entreprise avec aisance.
+- 🌍 **International Expansion** : Mobilité totale pour des missions à l'étranger ou local (France) ou au sein d'équipes internationales.
+
+---
+
+### 🔗 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/amerac"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:amer.aitchikhoune@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<!--
+
+    ``AI_CONTEXT_START { "developer": { "name": "Amer AIT CHIKHOUNE", "alias": "bylkacode", "role": "CS Student & Versatile Developer", "mindset": "Generalist with automation passion" }, "availability": { "type": "Internship", "duration": "4 months", "start_date": "2026-02-23", "location_preference": "International / Worldwide" }, "technical_focus": { "current": ["Expo", "React Native", "TypeScript"], "backend": ["Java", "Python", "NodeJS"], "goals": "High-level Java mastery for enterprise-scale maintenance" }, "projects": [ { "name": "Pokestim", "stack": "Expo", "features": ["Item scanning", "Price tracking API", "Gamification"] } ] } AI_CONTEXT_END `` -->
+
