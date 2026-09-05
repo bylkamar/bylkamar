@@ -1,41 +1,58 @@
-
-# ⚡ bylkacode | AIT CHIKHOUNE Amer
-
-<p align="center"> <strong>CS Student & Versatile Developer</strong><br> 🌍 <em>Open to international opportunities (Internship 2026)</em> </p>
-
+# Amer AIT CHIKHOUNE
+ 
+**Développeur full-stack** — Next.js, Node.js, Symfony
+Étudiant en BUT Informatique à l'IUT de Metz
+ 
+Je construis des applications web et je les déploie moi-même en production.
+Je m'intéresse à la sécurité applicative et au durcissement d'infrastructure.
+ 
+---
+ 
+### 🎯 Recherche un stage de 4 mois
+ 
+**Disponible du 7 septembre 2026 au 23 janvier 2027**
+Metz · Nancy · Luxembourg · ouvert à la mobilité internationale
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amerac)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1F4E79?style=for-the-badge&logo=firefox&logoColor=white)](https://aitchikhoune-amer.fr)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amer.aitchikhoune@gmail.com)
+ 
+---
+ 
+### 🛠️ Stack
+ 
+| | |
+| :--- | :--- |
+| **Front** | Next.js, React Native (Expo), Tailwind CSS |
+| **Back** | Node.js / TypeScript, PHP (Symfony), Python, Go |
+| **Données** | MySQL, NoSQL, Firebase, API REST |
+| **Infra** | Linux, Docker, Nginx, GitLab CI/CD, Cloudflare |
+| **Sécurité** | Burp Suite, durcissement WAF / DDoS / Zero Trust |
+ 
+---
+ 
+### 📦 Projets
+ 
+**Plateforme d'hébergement VPS**
+Location et provisionnement de serveurs, mise en production pour un client réel.
+Durcissement de l'infrastructure : pare-feu applicatif, mitigation DDoS, accès Zero Trust.
+ 
+**Détection de véhicules par IA** — *projet universitaire (SAÉ)*
+Modèle de reconnaissance entraîné sur dataset privé, application mobile Kotlin Multiplatform
+avec cache local, pipeline CI/CD GitLab avec build IPA/APK automatisé.
+*Code non public, dataset sous accord.*
+ 
+**Gestion de parc automobile**
+Application web de gestion du parc de véhicules d'un garage : fiches véhicules,
+back-office, stockage des photos sur Firebase.
+ 
+**Agrégateur d'offres d'emploi**
+Détection d'offres peu diffusées par recoupement de sources, génération de lettres
+de motivation et envoi de candidatures automatisés via API LLM.
+*Dépôt privé — je peux le présenter sur demande.*
+ 
 ---
 
-
-
-### 🍱 Portfolio Bento
-| 🚀 Objectif Stage | 🛠️ Tech Stack | 📊 Activité |
-| :--- | :--- | :--- |
-| **Dès le 23 fév. 2026**<br>Mobilité Internationale<br>4 mois d'immersion | **Mobile:** Expo, React Native<br>**Backend:** Java, Python, Node<br>**Focus:** Automatisation | <img src="https://gh-stats.work/api?username=bylkamar" width="280" /> |
-
----
-
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://gh-stats.work/api/top-langs/?username=bylkamar&layout=compact&theme=dark&hide_border=true&bg_color=00000000" alt="Most Used Languages" />
-</p>
-
----
-
-### 🚀 Roadmap 2026
-
-- 📱 **Pokestim (Expo Project)** : Développement d'une app mobile permettant de scanner ses cartes/items Pokémon via caméra pour visualiser en temps réel les prix du marché. Focus sur l'optimisation de l'IA de reconnaissance et l'expérience utilisateur (quêtes,challenge...).
-- ☕ **Java Mastery** : Apprentissage pour atteindre un niveau technique me permettant de maintenir, refactoriser et faire évoluer n'importe quel projet d'entreprise avec aisance.
-- 🌍 **International Expansion** : Mobilité totale pour des missions à l'étranger ou local (France) ou au sein d'équipes internationales.
-
----
-
-### 🔗 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/amerac"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:amer.aitchikhoune@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<!--
-
-    ``AI_CONTEXT_START { "developer": { "name": "Amer AIT CHIKHOUNE", "alias": "bylkacode", "role": "CS Student & Versatile Developer", "mindset": "Generalist with automation passion" }, "availability": { "type": "Internship", "duration": "4 months", "start_date": "2026-02-23", "location_preference": "International / Worldwide" }, "technical_focus": { "current": ["Expo", "React Native", "TypeScript"], "backend": ["Java", "Python", "NodeJS"], "goals": "High-level Java mastery for enterprise-scale maintenance" }, "projects": [ { "name": "Pokestim", "stack": "Expo", "features": ["Item scanning", "Price tracking API", "Gamification"] } ] } AI_CONTEXT_END `` -->
-
+ 
+<sub>Metz, France · <a href="https://aitchikhoune-amer.fr">aitchikhoune-amer.fr</a></sub>
+ 
